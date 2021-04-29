@@ -156,7 +156,6 @@ console.log(clasificaciones["bebida"]);
 console.log("LIMPIEZA:");
 console.log(clasificaciones["limpieza"]);
 
-
 // 4) Lista de productos con precio mayor a 20.30 y menor a 45.00
 
 let lista = [];
